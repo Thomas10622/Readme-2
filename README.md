@@ -163,8 +163,8 @@
 - # Задание 3. Новый проект на Unity
 - ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
 1.Настройте на сцене Unity воспроизведение звуковых файлов, описывающих динамику изменения выбранной переменной. Если выбрано здоровье главного персонажа равно 0..
-![image](https://github.com/user-attachments/assets/2aab30f3-6d8b-41fe-9c33-0f8834a4e78a)
-![image](https://github.com/user-attachments/assets/3f94e28c-0639-486b-aaad-15256df2a1e9)
+![image](https://github.com/Thomas10622/Readme-2/blob/main/2025-01-21_08-37.png)
+![image](https://github.com/Thomas10622/Readme-2/blob/main/2025-01-21_10-23.png)
 
 
 
