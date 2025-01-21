@@ -167,7 +167,8 @@
 ![image](https://github.com/Thomas10622/Readme-2/blob/main/2025-01-21_10-23.png)
 
 
-
+Скрипт расположен в папке UnityDataScience, ссылка на диск с папкой:
+https://drive.google.com/drive/folders/1B4p0FxcKP7OFY7PBmkKt4PLBPSEusfd_?usp=sharing
 
 
 ## Выводы
